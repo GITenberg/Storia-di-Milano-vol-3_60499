@@ -1,0 +1,28 @@
+_repo: Storia-di-Milano-vol-3_60499
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Verri, Pietro
+    alias: Verri, Pietro, conte
+    birthdate: 1728
+    deathdate: 1797
+    gutenberg_agent_id: '50984'
+    url: http://www.gutenberg.org/2009/agents/50984
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Pietro_Verri
+    - https://it.wikipedia.org/wiki/Pietro_Verri
+description: ''
+gutenberg_issued: '2019-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60499'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Milan (Italy) -- History'
+- !lcc 'DG'
+- GITenberg
+title: Storia di Milano, vol. 3
+url: http://www.gutenberg.org/ebooks/60499

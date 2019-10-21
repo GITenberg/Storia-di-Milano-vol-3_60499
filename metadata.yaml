@@ -1,5 +1,8 @@
 _repo: Storia-di-Milano-vol-3_60499
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60499-h/images/cover.jpg
 creator:
   author:
     agent_name: Verri, Pietro
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Pietro_Verri
     - https://it.wikipedia.org/wiki/Pietro_Verri
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60499#Storia-di-Milano-vol-3
 gutenberg_issued: '2019-10-15'
 gutenberg_type: Text
 identifiers:
